@@ -1,0 +1,11 @@
+D:\auvm\Documents\Visual Studio 2022\Projects\ProyectoPedidos\bin\Debug\ProyectoPedidos.exe.config
+D:\auvm\Documents\Visual Studio 2022\Projects\ProyectoPedidos\bin\Debug\ProyectoPedidos.exe
+D:\auvm\Documents\Visual Studio 2022\Projects\ProyectoPedidos\bin\Debug\ProyectoPedidos.pdb
+D:\auvm\Documents\Visual Studio 2022\Projects\ProyectoPedidos\obj\Debug\ProyectoPedidos.csproj.AssemblyReference.cache
+D:\auvm\Documents\Visual Studio 2022\Projects\ProyectoPedidos\obj\Debug\ProyectoPedidos.csproj.SuggestedBindingRedirects.cache
+D:\auvm\Documents\Visual Studio 2022\Projects\ProyectoPedidos\obj\Debug\ProyectoPedidos.csproj.CoreCompileInputs.cache
+D:\auvm\Documents\Visual Studio 2022\Projects\ProyectoPedidos\obj\Debug\ProyectoPedidos.exe
+D:\auvm\Documents\Visual Studio 2022\Projects\ProyectoPedidos\obj\Debug\ProyectoPedidos.pdb
+D:\auvm\Documents\Visual Studio 2022\Projects\ProyectoPedidos\bin\Debug\LibreriaPedidos.dll
+D:\auvm\Documents\Visual Studio 2022\Projects\ProyectoPedidos\bin\Debug\LibreriaPedidos.pdb
+D:\auvm\Documents\Visual Studio 2022\Projects\ProyectoPedidos\obj\Debug\ProyectoPedidos.csproj.CopyComplete
