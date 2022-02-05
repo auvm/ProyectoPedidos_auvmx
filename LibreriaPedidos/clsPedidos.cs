@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace LibreriaPedidos
 {
-    public class clsPedidos
+    public partial class clsPedidos
     {
 
         #region Propiedades
@@ -20,6 +20,7 @@ namespace LibreriaPedidos
         public clsPedidos()
         {
             Cliente = new clsClientes();
+            Items = new List<clsProductosPedidos>();
         }
         #endregion
 

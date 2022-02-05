@@ -45,7 +45,10 @@
     <Compile Include="clsAbstractaProductos.cs" />
     <Compile Include="clsClientes.cs" />
     <Compile Include="clsPedidos.cs" />
+    <Compile Include="clsPedidos2.cs" />
     <Compile Include="clsProductos.cs" />
+    <Compile Include="clsProductosCatalogo.cs" />
+    <Compile Include="clsProductosPedidos.cs" />
     <Compile Include="clsRepositorioClientes.cs" />
     <Compile Include="colClientes.cs" />
     <Compile Include="ControlPedidos.cs" />
